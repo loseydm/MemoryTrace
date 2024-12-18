@@ -1,4 +1,4 @@
-# Learning leaves a memory trace in motor cortex - Supporting code
+# Learning leaves a memory trace in motor cortex - supporting code
 
 This repository contains code supporting the findings and experiments presented in the paper ["Learning leaves a memory trace in motor cortex"](https://www.cell.com/current-biology/abstract/S0960-9822(24)00298-7) by Losey et al. (2024). Published in Current Biology.
 

@@ -1,6 +1,6 @@
 # Learning leaves a memory trace in motor cortex - Supporting code
 
-This repository contains the Python code supporting the findings and experiments presented in the paper ["Learning leaves a memory trace in motor cortex"](https://www.cell.com/current-biology/abstract/S0960-9822(24)00298-7) by Losey et al. (2024). Published in Current Biology.
+This repository contains code supporting the findings and experiments presented in the paper ["Learning leaves a memory trace in motor cortex"](https://www.cell.com/current-biology/abstract/S0960-9822(24)00298-7) by Losey et al. (2024). Published in Current Biology.
 
 ## Contents
 - `mt_example_code.ipynb`: A Jupyter Notebook to exemplify the analyses conducted in the manuscript.

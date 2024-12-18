@@ -2,6 +2,9 @@
 
 This repository contains code supporting the findings and experiments presented in the paper ["Learning leaves a memory trace in motor cortex"](https://www.cell.com/current-biology/abstract/S0960-9822(24)00298-7) by Losey et al. (2024). Published in Current Biology.
 
+## Citation
+Losey, Darby M., et al. "Learning leaves a memory trace in motor cortex." Current Biology 34.7 (2024): 1519-1531.
+
 ## Contents
 - `mt_example_code.ipynb`: A Jupyter Notebook to exemplify the analyses conducted in the manuscript.
 - `mt_functions.py`: A Python module containing functions called by `mt_example_code.ipynb`. This module encapsulates the core algorithms and data manipulation processes used in our research.
